@@ -17,6 +17,7 @@ class DemoApplicationTests {
 		log.info("Inside the Test..........!!");
 		log.info("Second log statement...");
 		log.info("One more to test Main-master push...");
+		log.info("master to main....");
 		assertEquals(true,true);
 	}
 
