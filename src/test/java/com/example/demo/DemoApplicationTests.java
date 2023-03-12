@@ -13,7 +13,7 @@ class DemoApplicationTests {
 	public static Logger log = LoggerFactory.getLogger(DemoApplicationTests.class);
 
 	@Test
-	public  contextLoads() {
+	public void contextLoads() {
 		log.info("Inside the Test..........!!");
 		log.info("Second log statement...");
 		log.info("One more to test Main-master push...");
