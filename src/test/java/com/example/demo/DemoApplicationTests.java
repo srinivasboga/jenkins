@@ -18,6 +18,7 @@ class DemoApplicationTests {
 		log.info("Second log statement...");
 		log.info("One more to test Main-master push...");
 		log.info("master to main....");
+		log.info("Test for jenkins");
 		assertEquals(true,true);
 	}
 
