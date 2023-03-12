@@ -16,6 +16,7 @@ class DemoApplicationTests {
 	public void contextLoads() {
 		log.info("Inside the Test..........!!");
 		log.info("Second log statement...");
+		log.info("One more to test Main-master push...");
 		assertEquals(true,true);
 	}
 
