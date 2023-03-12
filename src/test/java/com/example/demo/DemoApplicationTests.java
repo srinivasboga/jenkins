@@ -15,6 +15,7 @@ class DemoApplicationTests {
 	@Test
 	public void contextLoads() {
 		log.info("Inside the Test..........!!");
+		log.info("Second log statement...");
 		assertEquals(true,true);
 	}
 
