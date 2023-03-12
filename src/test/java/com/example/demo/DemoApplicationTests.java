@@ -19,6 +19,7 @@ class DemoApplicationTests {
 		log.info("One more to test Main-master push...");
 		log.info("master to main....");
 		log.info("Test for jenkins");
+		log.info("Environment DEV=TEST+PROD");
 		assertEquals(true,true); 
 	}
 
